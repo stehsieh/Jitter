@@ -1,6 +1,6 @@
 # Jitter
 
-For fun and exploration
+For fun and exploration and more fun! Spring 2023 is the best!
 
 ## A Replit customized Rails vanilla app
 
